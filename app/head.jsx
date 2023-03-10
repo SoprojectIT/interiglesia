@@ -1,4 +1,5 @@
 export default function Head() {
+  // GLOBAL HEAD
   return (
     <>
       <title>InterIglesias</title>
