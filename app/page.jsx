@@ -13,7 +13,7 @@ export default function Home() {
     >
       <div className="font-extrabold text-4xl uppercase text-center">
         <h1 className="">
-          Bienvendio a InterIglesia la <i>APP</i>
+          Bienvendio a InterIglesia <i>APP</i>
         </h1>
       </div>
       <div className="font-bold text-3xl uppercase">
